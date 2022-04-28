@@ -1,3 +1,4 @@
+2019 / Python 3
 # Moves ObjectDock to the correct screen
 
 Using a python script, I solved a problem with ObjectDock starting up on the wrong screen. The script searches and changes in the settings file
